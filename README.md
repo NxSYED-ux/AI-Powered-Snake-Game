@@ -28,12 +28,6 @@ A competitive Snake Game built in C++ featuring a smart AI snake that adapts its
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if available (e.g., gameplay view, AI pathing)_
-
----
-
 ## 📂 How to Run
 
 1. Clone the repository:
