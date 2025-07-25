@@ -38,5 +38,5 @@ A competitive Snake Game built in C++ featuring a smart AI snake that adapts its
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-snake-game.git
+   git clone https://github.com/NxSYED-ux/AI-Powered-Snake-Game.git
    cd ai-snake-game
